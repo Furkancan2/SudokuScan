@@ -1,0 +1,39 @@
+Per image:
+  synth_00             [C1       ] corner   0.25%  cells 100.0%  FP 0 FN 0  9.7s
+  synth_01             [C2       ] corner   0.37%  cells 100.0%  FP 0 FN 0  8.8s
+  synth_02             [C2       ] corner   0.36%  cells  93.8%  FP 0 FN 4  10.9s
+  synth_03             [C3       ] corner   0.28%  cells 100.0%  FP 0 FN 0  5.0s
+  synth_04             [C4       ] corner   0.28%  cells 100.0%  FP 0 FN 0  5.1s
+  synth_05             [C5       ] corner   0.22%  cells 100.0%  FP 0 FN 0  4.8s
+  synth_06             [C1       ] corner   0.31%  cells 100.0%  FP 0 FN 0  5.0s
+  synth_07             [C2       ] corner   0.85%  cells 100.0%  FP 0 FN 0  5.1s
+  synth_08             [C2       ] corner   0.40%  cells  85.2%  FP 0 FN 10  7.4s
+  synth_09             [C3       ] corner   0.61%  cells 100.0%  FP 0 FN 0  4.4s
+  synth_10             [C4       ] corner   0.26%  cells 100.0%  FP 0 FN 0  4.5s
+  synth_11             [C5 C2    ] corner   0.20%  cells 100.0%  FP 0 FN 0  4.4s
+  synth_12             [C1       ] corner   0.14%  cells 100.0%  FP 0 FN 0  4.6s
+  synth_13             [C2       ] corner   0.21%  cells 100.0%  FP 0 FN 0  5.1s
+  synth_14             [C2       ] corner   0.56%  cells 100.0%  FP 0 FN 0  4.6s
+  synth_15             [C3       ] corner   0.29%  cells 100.0%  FP 0 FN 0  4.6s
+  synth_16             [C4       ] corner   0.31%  cells 100.0%  FP 0 FN 0  4.5s
+  synth_17             [C5       ] corner   0.35%  cells 100.0%  FP 0 FN 0  5.1s
+  synth_18             [C1       ] corner   0.23%  cells 100.0%  FP 0 FN 0  4.9s
+  synth_19             [C2       ] corner   0.99%  cells  98.8%  FP 0 FN 1  5.0s
+  synth_20             [C2       ] corner   0.25%  cells 100.0%  FP 0 FN 0  4.5s
+  synth_21             [C3       ] corner   0.16%  cells 100.0%  FP 0 FN 0  5.0s
+  synth_22             [C4       ] corner   0.31%  cells 100.0%  FP 0 FN 0  4.8s
+  synth_23             [C5       ] corner   1.07%  cells 100.0%  FP 0 FN 0  4.5s
+  synth_24             [C1       ] corner   0.26%  cells 100.0%  FP 0 FN 0  4.6s
+  synth_25             [C2       ] corner   0.33%  cells 100.0%  FP 0 FN 0  5.1s
+  synth_26             [C2       ] corner   0.29%  cells 100.0%  FP 0 FN 0  4.7s
+  synth_27             [C3       ] corner   0.33%  cells 100.0%  FP 0 FN 0  4.7s
+  synth_28             [C4       ] corner   0.56%  cells 100.0%  FP 0 FN 0  4.4s
+  synth_29             [C5 C2    ] corner   0.29%  cells 100.0%  FP 0 FN 0  4.8s
+
+Summary:
+     ALL n= 30 | corner err  0.38% (median  0.30%) | cell acc  99.3% | empty F1 0.991 | exact  90.0% | robust 100.0%
+      C1 n=  5 | corner err  0.24% (median  0.25%) | cell acc 100.0% | empty F1 1.000 | exact 100.0% | robust 100.0%
+      C2 n= 12 | corner err  0.42% (median  0.34%) | cell acc  98.1% | empty F1 0.978 | exact  75.0% | robust 100.0%
+      C3 n=  5 | corner err  0.33% (median  0.29%) | cell acc 100.0% | empty F1 1.000 | exact 100.0% | robust 100.0%
+      C4 n=  5 | corner err  0.34% (median  0.31%) | cell acc 100.0% | empty F1 1.000 | exact 100.0% | robust 100.0%
+      C5 n=  5 | corner err  0.43% (median  0.29%) | cell acc 100.0% | empty F1 1.000 | exact 100.0% | robust 100.0%

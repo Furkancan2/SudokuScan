@@ -1,0 +1,22 @@
+Per image:
+  IMG_0834             [C1       ] corner   1.07%  cells 100.0%  FP 0 FN 0  5.8s
+  IMG_0835             [C1       ] corner   0.81%  cells  98.8%  FP 0 FN 0  5.7s
+  IMG_0836             [C1       ] corner   0.92%  cells 100.0%  FP 0 FN 0  5.4s
+  IMG_0837             [C2 C4    ] corner   0.76%  cells 100.0%  FP 0 FN 0  5.0s
+  IMG_0838             [C2       ] corner   0.66%  cells 100.0%  FP 0 FN 0  4.8s
+  IMG_0839             [C2 C5    ] corner   0.62%  cells 100.0%  FP 0 FN 0  5.7s
+  IMG_0840             [C2       ] corner   0.62%  cells 100.0%  FP 0 FN 0  5.4s
+  IMG_0841             [C2       ] corner   0.56%  cells 100.0%  FP 0 FN 0  4.9s
+  IMG_0842             [C2       ] corner   0.66%  cells 100.0%  FP 0 FN 0  5.2s
+  IMG_0844             [C3       ] corner   0.45%  cells 100.0%  FP 0 FN 0  5.7s
+  IMG_0845             [C3       ] corner   0.66%  cells 100.0%  FP 0 FN 0  5.3s
+  IMG_0846             [C4       ] corner   0.90%  cells 100.0%  FP 0 FN 0  5.3s
+  IMG_0847             [C5       ] corner   0.53%  cells 100.0%  FP 0 FN 0  5.2s
+
+Summary:
+     ALL n= 13 | corner err  0.71% (median  0.66%) | cell acc  99.9% | empty F1 1.000 | exact  92.3% | robust 100.0%
+      C1 n=  3 | corner err  0.93% (median  0.92%) | cell acc  99.6% | empty F1 1.000 | exact  66.7% | robust 100.0%
+      C2 n=  6 | corner err  0.65% (median  0.64%) | cell acc 100.0% | empty F1 1.000 | exact 100.0% | robust 100.0%
+      C3 n=  2 | corner err  0.55% (median  0.55%) | cell acc 100.0% | empty F1 1.000 | exact 100.0% | robust 100.0%
+      C4 n=  2 | corner err  0.83% (median  0.83%) | cell acc 100.0% | empty F1 1.000 | exact 100.0% | robust 100.0%
+      C5 n=  2 | corner err  0.57% (median  0.57%) | cell acc 100.0% | empty F1 1.000 | exact 100.0% | robust 100.0%

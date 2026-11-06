@@ -1,0 +1,82 @@
+{
+ "IMG_0834.JPG": {
+  "puzzle": "C",
+  "conditions": [
+   "C1"
+  ]
+ },
+ "IMG_0835.JPG": {
+  "puzzle": "B",
+  "conditions": [
+   "C1"
+  ]
+ },
+ "IMG_0836.JPG": {
+  "puzzle": "A",
+  "conditions": [
+   "C1"
+  ]
+ },
+ "IMG_0837.JPG": {
+  "puzzle": "A",
+  "conditions": [
+   "C2",
+   "C4"
+  ]
+ },
+ "IMG_0838.JPG": {
+  "puzzle": "B",
+  "conditions": [
+   "C2"
+  ]
+ },
+ "IMG_0839.JPG": {
+  "puzzle": "C",
+  "conditions": [
+   "C2",
+   "C5"
+  ]
+ },
+ "IMG_0840.JPG": {
+  "puzzle": "A",
+  "conditions": [
+   "C2"
+  ]
+ },
+ "IMG_0841.JPG": {
+  "puzzle": "B",
+  "conditions": [
+   "C2"
+  ]
+ },
+ "IMG_0842.JPG": {
+  "puzzle": "B",
+  "conditions": [
+   "C2"
+  ]
+ },
+ "IMG_0844.JPG": {
+  "puzzle": "C",
+  "conditions": [
+   "C3"
+  ]
+ },
+ "IMG_0845.JPG": {
+  "puzzle": "B",
+  "conditions": [
+   "C3"
+  ]
+ },
+ "IMG_0846.JPG": {
+  "puzzle": "C",
+  "conditions": [
+   "C4"
+  ]
+ },
+ "IMG_0847.JPG": {
+  "puzzle": "A",
+  "conditions": [
+   "C5"
+  ]
+ }
+}

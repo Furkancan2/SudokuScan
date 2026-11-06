@@ -1,0 +1,19 @@
+IMG_0834             obl 0.021  A3 err   10.8px  A4 rms   2.7px  spacing A3/A4/H4 3.4/1.8/1.4px  acc 1.00/1.00/1.00
+IMG_0835             obl 0.004  A3 err    2.8px  A4 rms   0.7px  spacing A3/A4/H4 3.9/3.5/3.7px  acc 1.00/1.00/1.00
+IMG_0836             obl 0.004  A3 err    1.7px  A4 rms   0.4px  spacing A3/A4/H4 1.1/0.8/0.9px  acc 1.00/1.00/1.00
+IMG_0837             obl 0.113  A3 err   51.7px  A4 rms  13.9px  spacing A3/A4/H4 19.4/15.2/0.8px  acc 0.83/0.95/1.00
+IMG_0838             obl 0.159  A3 err   71.4px  A4 rms  19.4px  spacing A3/A4/H4 21.6/19.6/0.7px  acc 0.74/0.80/1.00
+IMG_0839             obl 0.218  A3 err   97.4px  A4 rms  27.4px  spacing A3/A4/H4 27.4/20.6/1.4px  acc 0.70/0.70/1.00
+IMG_0840             obl 0.263  A3 err  120.3px  A4 rms  35.6px  spacing A3/A4/H4 35.9/27.6/0.5px  acc 0.62/0.64/1.00
+IMG_0841             obl 0.271  A3 err  120.7px  A4 rms  35.0px  spacing A3/A4/H4 29.0/24.6/1.1px  acc 0.65/0.63/1.00
+IMG_0842             obl 0.275  A3 err  198.9px  A4 rms  38.4px  spacing A3/A4/H4 34.0/31.9/2.0px  acc 0.62/0.64/1.00
+IMG_0844             obl 0.012  A3 err    6.1px  A4 rms   1.5px  spacing A3/A4/H4 2.7/1.7/1.5px  acc 1.00/1.00/1.00
+IMG_0845             obl 0.052  A3 err   24.3px  A4 rms   6.2px  spacing A3/A4/H4 10.4/7.8/0.8px  acc 0.91/1.00/1.00
+IMG_0846             obl 0.030  A3 err   15.5px  A4 rms   3.9px  spacing A3/A4/H4 9.4/2.6/2.1px  acc 1.00/1.00/1.00
+IMG_0847             obl 0.009  A3 err    4.0px  A4 rms   1.0px  spacing A3/A4/H4 1.5/1.1/1.1px  acc 1.00/1.00/1.00
+
+Means over all images:
+  A3: spacing err 15.35px  cell acc  85.2%
+  A4: spacing err 12.23px  cell acc  87.5%
+  H4: spacing err  1.38px  cell acc 100.0%
+saved to analysis/compare_gt

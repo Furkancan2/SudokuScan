@@ -1,0 +1,23 @@
+13 images
+block_frac = 0.002  candidates   338.2  corner err mean   0.74%  median  0.70%
+block_frac = 0.003  candidates   338.2  corner err mean   0.74%  median  0.70%
+block_frac = 0.004  candidates   330.8  corner err mean   0.71%  median  0.66%
+block_frac = 0.006  candidates   316.8  corner err mean   0.73%  median  0.77%
+block_frac = 0.008  candidates   287.4  corner err mean   0.62%  median  0.56%
+block_frac = 0.012  candidates   241.5  corner err mean   0.55%  median  0.54%
+     ksize = 3      candidates   330.8  corner err mean   0.71%  median  0.66%
+     ksize = 5      candidates   318.1  corner err mean   0.72%  median  0.67%
+     ksize = 7      candidates   314.8  corner err mean   0.74%  median  0.74%
+         k = 0.02   candidates   333.2  corner err mean   0.74%  median  0.66%
+         k = 0.04   candidates   330.8  corner err mean   0.71%  median  0.66%
+         k = 0.06   candidates   330.1  corner err mean   0.71%  median  0.66%
+         k = 0.1    candidates   324.5  corner err mean   0.71%  median  0.69%
+         k = 0.15   candidates   312.9  corner err mean   1.05%  median  0.90%
+rel_thresh = 0.001  candidates   413.5  corner err mean   0.71%  median  0.66%
+rel_thresh = 0.005  candidates   343.6  corner err mean   0.71%  median  0.66%
+rel_thresh = 0.01   candidates   330.8  corner err mean   0.71%  median  0.66%
+rel_thresh = 0.05   candidates   309.0  corner err mean   0.71%  median  0.66%
+rel_thresh = 0.1    candidates   285.7  corner err mean   0.71%  median  0.66%
+rel_thresh = 0.2    candidates   239.6  corner err mean   0.71%  median  0.66%
+saved analysis/params/params.csv analysis/params/params.png
+PARAMS_DONE

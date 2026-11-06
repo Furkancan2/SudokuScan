@@ -1,0 +1,1 @@
+"""SudokuScan pipeline package."""

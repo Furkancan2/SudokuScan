@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+results/
+out/
+analysis_synthetic/
+data/synthetic/
+data/synthetic_test/
+.DS_Store
+.venv/
+analysis/failure_src/
+data/personal/*.JPG
+DEFENSE_NOTES.md
+data/personal/puzzle_answers.txt
+print/

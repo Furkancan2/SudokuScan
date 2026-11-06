@@ -1,0 +1,30 @@
+IMG_0834: raw 0.840  prepared 1.000
+IMG_0835: raw 0.778  prepared 1.000
+IMG_0836: raw 0.901  prepared 1.000
+IMG_0837: raw 0.840  prepared 1.000
+IMG_0838: raw 0.827  prepared 1.000
+IMG_0839: raw 0.914  prepared 1.000
+IMG_0840: raw 0.889  prepared 1.000
+IMG_0841: raw 0.815  prepared 1.000
+IMG_0842: raw 0.852  prepared 1.000
+IMG_0844: raw 0.852  prepared 1.000
+IMG_0845: raw 0.864  prepared 1.000
+IMG_0846: raw 0.864  prepared 1.000
+IMG_0847: raw 0.864  prepared 1.000
+
+# OCR study
+
+images: 13
+
+## Cell accuracy with / without preparation
+- without preparation (raw 50x50 grey cell): 85.4%
+- with preparation: 100.0%
+
+## Tesseract --psm on 362 prepared digits (single pass, no fallback)
+- psm  6: 92.8%
+- psm  7: 100.0%
+- psm  8: 90.1%
+- psm 10: 100.0%
+- psm 13: 90.1%
+
+## Most frequent confusions (true -> predicted, 0 = empty/unread)
